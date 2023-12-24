@@ -1,0 +1,4 @@
+path: 'https://test-stand.gb.ru/gateway/login'
+username: 'Monica Kunde V'
+password: 'add9b80be1'
+path_post: 'https://test-stand.gb.ru/api/posts'

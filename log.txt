@@ -1,0 +1,17 @@
+17:18:25 INFO Test_get_post starting
+17:18:27 INFO Test_creation_post starting
+17:18:28 INFO ====== WebDriver manager ======
+17:18:31 INFO Get LATEST chromedriver version for google-chrome
+17:18:32 INFO Get LATEST chromedriver version for google-chrome
+17:18:32 INFO Driver [C:\Users\Евгений\.wdm\drivers\chromedriver\win64\120.0.6099.109\chromedriver-win32/chromedriver.exe] found in cache
+17:18:37 INFO Test1 starting
+17:18:37 INFO Log in to the site
+17:18:42 INFO Test2 starting
+17:18:42 INFO Log in to the site
+17:18:44 INFO Test3 starting
+17:18:47 INFO Test4 starting
+17:18:48 INFO Test5 starting
+17:18:48 INFO Test6 starting
+17:18:48 INFO Test7 starting
+17:18:48 INFO Test8 starting
+17:18:51 INFO We find text Form successfully submitted after click contact us button
